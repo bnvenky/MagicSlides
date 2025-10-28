@@ -219,8 +219,7 @@ Created for MagicSlides.app Full-Stack Engineer Intern Assignment
 ## 📞 Contact
 
 For questions about this assignment:
-- Email: jobs@magicslides.app
-- Twitter: [@theindianappguy](https://twitter.com/theindianappguy)
+- Email: bnvenkatesheee@gmail.com
 
 ---
 
